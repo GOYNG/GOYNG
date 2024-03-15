@@ -10,7 +10,7 @@
 
 "Have lots of far-fetched ideas"
 
-"I will be glad to receive your letter :)"
+"I will be glad to receive your letter : )"
 
 #### Contact me with: liangearnshaw@gmail.com
 
